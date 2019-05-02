@@ -1,0 +1,202 @@
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\bin\Debug\KinectBase.exe
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\bin\Debug\KinectBase.pdb
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\App.g.cs
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\KinectClient\KinectClient1\KinectServer\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\bin\Debug\KinectBase.exe
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\bin\Debug\KinectBase.pdb
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\App.g.cs
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\projects\Kinect\KinectClient\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\bin\Debug\KinectBase.exe
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\bin\Debug\KinectBase.pdb
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\App.g.cs
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\projects\Kinect\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\bin\Debug\KinectBase.exe
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\bin\Debug\KinectBase.pdb
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\App.g.cs
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\projects\Kinect & MICO\Kinect\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\bin\Debug\KinectBase.exe
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\bin\Debug\KinectBase.pdb
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\App.g.cs
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\projects\Kinect & MICO\Kinect\KinectBase2.0\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\App.g.cs
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\bin\Debug\KinectBase.exe
+E:\projects\KinectBase2.0\KinectBase\KinectDriver\bin\Debug\KinectBase.pdb
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.exe
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.pdb
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\bin\Debug\KinectBase.exe
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\bin\Debug\KinectBase.pdb
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.baml
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\App.g.cs
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+F:\XA&NUDT\KinectClientV2\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.exe
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.pdb
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\bin\Debug\KinectBase.exe
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\bin\Debug\KinectBase.pdb
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csprojResolveAssemblyReference.cache
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.baml
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\App.g.cs
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+F:\XA&NUDT\KinectClientV2 - 副本\KinectBase\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+D:\工程项目\KinectClient\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.Cache
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.dll
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.xml
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csprojAssemblyReference.cache
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.cache
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CoreCompileInputs.cache
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CopyComplete
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\KinectClientV2-master\new version v3\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.dll
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.xml
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csprojAssemblyReference.cache
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.cache
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CoreCompileInputs.cache
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CopyComplete
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\MobileRobot\GUI\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.dll
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.xml
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csprojAssemblyReference.cache
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.cache
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CoreCompileInputs.cache
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CopyComplete
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\MobileRobot\KinectV2019\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csprojAssemblyReference.cache
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.cache
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CoreCompileInputs.cache
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.dll
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.xml
+E:\projects\mobile_robot2019\KinectV2019.v2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CopyComplete
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.dll
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.xml
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csprojAssemblyReference.cache
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.cache
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CoreCompileInputs.cache
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CopyComplete
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+C:\Users\mrtang\Desktop\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\bin\Debug\KinectBase.exe
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\bin\Debug\KinectBase.pdb
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.dll
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\bin\Debug\Microsoft.Kinect.xml
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csprojAssemblyReference.cache
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.baml
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\MainWindow.g.cs
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\App.g.cs
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase_MarkupCompile.cache
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.g.resources
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.Properties.Resources.resources
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.GenerateResource.cache
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CoreCompileInputs.cache
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.csproj.CopyComplete
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.exe
+E:\project\KinectV2019.V2.0\KinectBase source\KinectDriver\obj\x86\Debug\KinectBase.pdb
