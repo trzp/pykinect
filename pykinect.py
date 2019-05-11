@@ -45,9 +45,8 @@ class KinectClientV2019(object):
     This class is used to read and unpack these data.
 
     """
-    def __init__(self,release = True):  #kpath = '',将不在此启动kinectbase,也不会释放kinectbase
+    def __init__(self):
         self.servername = 'KinectBase.exe'
-        self.release = release
         if not check_exsit(self.servername):    
             os.startfile(os.path.join(kpath, self.servername))
             print '[kinect server] is running...'
@@ -66,9 +65,8 @@ class KinectClientV2019(object):
         self.depth_buf = '\x00'*921600
         self.color_cvframe = self.depth_cvframe = cv2.imread(os.path.join(rootdir,'kinect.jpg'))
 
-    def __del__(self):
-        if self.release:
-            if check_exsit(self.servername):    kill_process(self.servername)
+    def release(self):
+        if check_exsit(self.servername):    kill_process(self.servername)
 
     def update_color_buf(self):
         self.SHrgb.seek(0)
