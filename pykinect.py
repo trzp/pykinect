@@ -24,7 +24,7 @@ from dragdraw_pgrect import DragDraw_pgRect
 import win32com.client
 
 rootdir = os.path.dirname(os.path.abspath(__file__))
-server_path = os.path.join(rootdir,r'KinectBase source\KinectDriver\bin\Debug')
+kpath = os.path.join(rootdir,r'KinectBase source\KinectDriver\bin\Debug')
 
 ## -------------------------------------------------------------------------------------------------------------------
 ## kinect client
@@ -45,13 +45,11 @@ class KinectClientV2019(object):
     This class is used to read and unpack these data.
 
     """
-    def __init__(self,kpath = server_path):  #kpath = '',将不在此启动kinectbase,也不会释放kinectbase
+    def __init__(self):
         self.servername = 'KinectBase.exe'
-        self.release = False
-        if kpath != '':
-            if not check_exsit(self.servername):    os.startfile(os.path.join(kpath, self.servername))
-            print 'kinect driver is running...'
-            self.release = True
+        if not check_exsit(self.servername):    
+            os.startfile(os.path.join(kpath, self.servername))
+            print '[kinect server] is running...'
             time.sleep(2)
 
         self.SHrgb = mmap.mmap(0,921604,access=mmap.ACCESS_READ,tagname='_sharemem_for_colorpixels_')
@@ -67,9 +65,8 @@ class KinectClientV2019(object):
         self.depth_buf = '\x00'*921600
         self.color_cvframe = self.depth_cvframe = cv2.imread(os.path.join(rootdir,'kinect.jpg'))
 
-    def __del__(self):
-        if self.release:
-            if check_exsit(self.servername):    kill_process(self.servername)
+    def release(self):
+        if check_exsit(self.servername):    kill_process(self.servername)
 
     def update_color_buf(self):
         self.SHrgb.seek(0)
@@ -137,15 +134,15 @@ def calibration():
     '''
 
     while True:
-        cflg = int(raw_input(u'\n'
-                             u'aim to calibrate the mounting parameters of the camera\n'
-                             u'clear any parameters of camera\n'
-                             u'input：\n'
-                             u'1: calibrate the floor\n'
-                             u'2: calibrate the wall\n'
-                             u'3: calculate and save parameters\n'
-                             u'0: quit this program\n'
-                             u'\n'))
+        cflg = int(raw_input('\n'
+                             'aim to calibrate the mounting parameters of the camera\n'
+                             'clear any parameters of camera\n'
+                             'input：\n'
+                             '1: calibrate the floor\n'
+                             '2: calibrate the wall\n'
+                             '3: calculate and save parameters\n'
+                             '0: quit this program\n'
+                             '\n'))
         if cflg == 0: break
 
         if cflg in [1,2]:
@@ -304,9 +301,12 @@ def locate_bottle(rect, point_cloud):
     s = pc.shape
     pp = pc.flatten().reshape((s[0] * s[1], 3))
     pp = pp[np.where(pp[:,2] > 0)]   #去除了无效点
-    d = np.linalg.norm(pp,axis=-1)
-    ind = np.argsort(d)[0]
-    return pp[ind,:]    #定位瓶子时由于小目标容易切割到桌面上的点，因此定位距离最近的点
+    if pp.size > 0:
+        d = np.linalg.norm(pp,axis=-1)
+        ind = np.argsort(d)[0]
+        return pp[ind,:]    #定位瓶子时由于小目标容易切割到桌面上的点，因此定位距离最近的点
+    else:
+        return None
 
 
 ## -------------------------------------------------------------------------------------------------------------------
@@ -328,7 +328,10 @@ def locate_obj(rect, point_cloud):
     s = pc.shape
     pp = pc.flatten().reshape((s[0] * s[1], 3))
     pp = pp[np.where(pp[:,2] > 0)]   #去除了无效点
-    return np.mean(pp,axis = 0)
+    if pp.size > 0:
+        return np.mean(pp,axis = 0)
+    else:
+        return None
     
 
 ## -------------------------------------------------------------------------------------------------------------------
