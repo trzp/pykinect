@@ -118,7 +118,7 @@ class KinectClientV2019(object):
             self.__pc_index = newind
             self.SHpointcloud.seek(4)
             self.pointcloud = np.fromstring(self.SHpointcloud.read(3686400),dtype=np.float32).reshape((480,640,3))
-            self.pointcloud[450:,:,:] = 0
+            # self.pointcloud[450:,:,:] = 0
         return self.pointcloud
 
     def get_xyz(self,p): #p：x,y
