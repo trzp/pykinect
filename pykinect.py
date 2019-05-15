@@ -11,7 +11,8 @@
 @description: module for getting video stream and point cloud, and for positioning target 
 '''
 
-import os,sys
+from __future__ import division
+import os
 import mmap
 import numpy as np
 import pygame
@@ -19,9 +20,12 @@ from pygame.locals import *
 import time
 from struct import pack,unpack
 import cv2
-import win32api
+import win32api,win32con
 from dragdraw_pgrect import DragDraw_pgRect
 import win32com.client
+
+_OK_ = 1
+_CANCEL_ = 2
 
 rootdir = os.path.dirname(os.path.abspath(__file__))
 kpath = os.path.join(rootdir,r'KinectBase source\KinectDriver\bin\Debug')
@@ -133,14 +137,16 @@ def calibration():
     ref: http://blog.csdn.net/u011240016/article/details/52821139
     '''
 
-    while True:
+    R = win32api.MessageBox(0, u'确保未使用任何安装和滤波参数',u'重要提示',win32con.MB_OKCANCEL)
+
+    while R == _OK_:
         cflg = int(raw_input('\n'
                              'aim to calibrate the mounting parameters of the camera\n'
                              'clear any parameters of camera\n'
                              'input：\n'
                              '1: calibrate the floor\n'
                              '2: calibrate the wall\n'
-                             '3: calculate and save parameters\n'
+                             '3: calculate and save installtion parameters\n'
                              '0: quit this program\n'
                              '\n'))
         if cflg == 0: break
@@ -164,7 +170,13 @@ def calibration():
                         if flg:
                             coe = plane_fit(kk.point_cloud,rec)
                             if cflg == 1:
+                                # 地面拟合的方程
                                 np.save('ground_raw.npy', coe)
+                                buf = coe.astype(np.float32).tostring()
+                                with open(os.path.join(rootdir, 'groundfilter_param.txt'), 'w') as f:
+                                    f.write(buf)
+    
+                                # 地面法向量
                                 coe = coe[:3]
                                 coe *= np.sign(coe[1])  #令法向量的y为正，即指向地面
                                 coe *= 1/np.linalg.norm(coe) #归一化
@@ -174,28 +186,23 @@ def calibration():
                             elif cflg == 2:
                                 coe = coe[:3]
                                 coe *= np.sign(coe[2])  # 令法向量的z为正，即指向前方
-                                coe /= np.linalg.norm(coe)  # 归一化
+                                coe *= 1/np.linalg.norm(coe)  # 归一化
                                 np.save('wall.npy', coe)
                                 win32api.MessageBox(0, u'墙面标定完成，关闭窗口继续')
 
                 pygame.display.update()
             pygame.quit()
-            del kk
+            kk.release()
 
         elif cflg == 3:
             #通过两个方向定义第三个方向
             ax, ay, az = coeY = np.load('ground.npy')
-            fY = np.load('ground_raw.npy')
             bx, by, bz = coeZ = np.load('wall.npy')
             cx = ay * bz - az * by
             cy = -az * bx + ax * bz
             cz = ax * by - ay * bx
             v = np.array((cx, cy, cz))
             coeX = v/np.linalg.norm(v)
-
-            buf = fY.astype(np.float32).tostring()
-            with open(os.path.join(rootdir, 'groundfilter_param.txt'), 'w') as f:
-                f.write(buf)
 
             pbuf = np.hstack((coeX, coeY, coeZ)).astype(np.float32).tostring()
             with open(os.path.join(rootdir, 'installtion_param.txt'), 'w') as f:
@@ -218,7 +225,7 @@ def demo_cv():
         cv2.imshow("capture", frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-    del kk
+    kk.release()
     cv2.destroyAllWindows()
 
 ## -------------------------------------------------------------------------------------------------------------------
@@ -236,6 +243,10 @@ def demo_pg():
     while not END:
         screen.blit(kk.get_color_as_pgsurface(),(640,0))
         screen.blit(kk.get_depth_as_pgsurface(),(0,0))
+        pygame.draw.line(screen,(255,0,0),(319,0),(319,479))
+        pygame.draw.line(screen, (255, 0, 0), (640 + 319, 0), (640 + 319, 479))
+        pygame.draw.line(screen, (255, 0, 0), (0, 239), (1279, 239))
+
         ev = pygame.event.get()
         for e in ev:
             if e.type == QUIT:
@@ -247,7 +258,7 @@ def demo_pg():
                 print x,y
         pygame.display.update()
         clk.tick(60)
-    del kk
+    kk.release()
     pygame.quit()
 
 ## -------------------------------------------------------------------------------------------------------------------
@@ -277,7 +288,7 @@ def demo_getXYZ():
                 print '>>> world position: %s'%(str(kk.point_cloud[y,x]))
         pygame.display.update()
         clk.tick(60)
-    del kk
+    kk.release()
     pygame.quit()
 
 
@@ -466,5 +477,5 @@ def demo_target_locate():
                 else:
                     print "you havn't selected any region"
         pygame.display.update()
-    del kk
+    kk.release()
     pygame.quit()
